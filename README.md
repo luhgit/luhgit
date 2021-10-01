@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hey there 👋
 
-<!--
-**luhgit/luhgit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Amit, Senior Data Scientist at Continental AG, currently living in the beautful city of Hannover.
 
-Here are some ideas to get you started:
+## Stuff I have worked with:
+Python, Pandas, Tensorflow, Keras, Scikit-Learn, Plotly, Streamlit, Highcharts,
+Google Cloud, AWS, Docker, Apache Spark, Hive, Impala, Hadoop, PostgreSQL, MongoDB
+Flask, Vue.js, Javascript, jQuery, HTML, CSS, XML, Jinja2, Material Design, Bootstrap
+Apache Solr, Elastic Search, Kibana 
+Arduino, Raspberry Pi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Where to fine me?
+LinkedIn, GitHub, Twitter
