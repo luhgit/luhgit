@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-I'm Amit, Senior Data Scientist at Continental AG, currently living in the beautful city of Hannover.
+I'm Amit, Senior Data Scientist at Continental AG, currently living in the beautful city of :de: Hannover.
 
 ## Stuff I have worked with:
 Python, Pandas, Tensorflow, Keras, Scikit-Learn, Plotly, Streamlit, Highcharts,
