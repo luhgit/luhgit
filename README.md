@@ -10,4 +10,6 @@ Apache Solr, Elastic Search, Kibana
 Arduino, Raspberry Pi
 
 ## Where to fine me?
-LinkedIn, GitHub, Twitter
+<a href="https://www.linkedin.com/in/exploreamittyagi/" target="_blank">LinkedIn</a>, 
+<a href="https://github.com/luhgit" target="_blank">GitHub</a>, 
+<a href="https://twitter.com/amit_tyagi" target="_blank">Twitter</a>
