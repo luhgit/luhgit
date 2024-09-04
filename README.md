@@ -30,7 +30,15 @@ I’m always eager to connect with professionals and collaborate on innovative A
 [![Cognitive Quest - Blog](https://img.shields.io/badge/Blog-Cognitive%20Quest-ff69b4?style=for-the-badge)](https://www.cognitive-quest.com)
 
 ## 📊 GitHub Stats
-![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=luhgit&show_icons=true&theme=radical)
+<div align="center">
+    <!-- Contribution Heatmap with Snake Animation -->
+    <img src="https://github.com/cheehwatang/cheehwatang/blob/output/ocean.svg?color_snake=#15F8EB&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9#gh-dark-mode-only" alt="Snake animation">
+    <img src="https://github.com/cheehwatang/cheehwatang/blob/output/github-snake.svg?color_snake=#00FC58#gh-light-mode-only" alt="Snake animation">
+    <!-- Github Streak Stats -->
+    <a href="#gh-dark-mode-only">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=cheehwatang&border_radius=20&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D#gh-dark-mode-only" alt="GitHub Streak">
+    </a>
+</div>
 
 ## 🌱 What I'm Learning
 Currently diving deeper into Generative AI safety and exploring advancements in multi-modal learning, with a focus on applying these technologies to solve new and emerging challenges.
