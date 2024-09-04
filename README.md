@@ -3,7 +3,10 @@
 I'm Amit, Senior Data Scientist at Microsoft, currently living in the beautful city of Berlin.
 
 ## Stuff I have worked with:
-Azure, MLOPs, Python, Pandas, Tensorflow, Keras, Scikit-Learn, Plotly, Streamlit, Highcharts,
+Azure, MLOPs, Python, Pandas, PyTorch, Huggingface, Tensorflow, Keras, Scikit-Learn
+GPT Models, LLaMA models, Phi Models, Mistral models, 
+RAG, FInetuning, Responsible AI, Quality and Safety Evaluations, LLM Benchmarking
+Plotly, Streamlit, Highcharts,
 Google Cloud, AWS, Docker, Apache Spark, Hive, Impala, Hadoop, PostgreSQL, MongoDB
 Flask, Vue.js, Javascript, jQuery, HTML, CSS, XML, Jinja2, Material Design, Bootstrap
 Apache Solr, Elastic Search, Kibana 
