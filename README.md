@@ -31,12 +31,9 @@ I’m always eager to connect with professionals and collaborate on innovative A
 
 ## 📊 GitHub Stats
 <div align="center">
-    <!-- Contribution Heatmap with Snake Animation -->
-    <img src="https://github.com/cheehwatang/cheehwatang/blob/output/ocean.svg?color_snake=#15F8EB&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9#gh-dark-mode-only" alt="Snake animation">
-    <img src="https://github.com/cheehwatang/cheehwatang/blob/output/github-snake.svg?color_snake=#00FC58#gh-light-mode-only" alt="Snake animation">
     <!-- Github Streak Stats -->
     <a href="#gh-dark-mode-only">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=cheehwatang&border_radius=20&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D#gh-dark-mode-only" alt="GitHub Streak">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=luhgit&border_radius=20&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D#gh-dark-mode-only" alt="GitHub Streak">
     </a>
 </div>
 
