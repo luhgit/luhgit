@@ -14,7 +14,7 @@ I'm passionate about advancing AI to serve humanity, and my work focuses on maki
 - **Search & Analytics:** Azure AI Search, Elasticsearch, Apache Solr, Kibana
 
 ## 🌟 Featured Projects
-- **Microsoft Dragon Copilot:** Leading European applied research team for Microsoft Dragon Copilot to scale the solution in various EU markets.
+- **[Microsoft Dragon Copilot](https://www.microsoft.com/en-us/health-solutions/clinical-workflow/dragon-copilot):** Leading European applied research team for Microsoft Dragon Copilot to scale the solution in various EU markets.
 - **Autonomous Driving Safety System:** Developed an AI model using Phi-3v and GPT to detect abnormal driving conditions, such as accidents or road hazards, with real-time, low-latency performance on edge devices.
 - **LLM-Based Chatbots and Summarizers:** Created customer-facing chatbots and summarizers using Hugging Face models, tailored for specific business needs, enhancing engagement and operational efficiency.
 - **LLM Benchmarking and Fine-Tuning:** Led a benchmarking initiative at Microsoft to evaluate open-source LLMs like GPT, LLaMA, and Mistral against proprietary models, optimizing them for customer-specific applications.
