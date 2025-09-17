@@ -1,6 +1,6 @@
 ### 👋 Hello there!
 
-I'm Amit, a Senior Data Scientist at Microsoft based in Berlin. With over a decade of experience in AI and machine learning, I specialize in building and deploying robust AI-driven solutions, particularly using large language models (LLMs), MLOps, and Responsible AI practices. My work spans various industries, helping organizations leverage cutting-edge AI technologies to drive innovation and solve complex challenges.
+I'm Amit, a Lead Data Scientist at Microsoft Heathcare based in Berlin. With over a decade of experience in AI and machine learning, I specialize in building and deploying robust AI-driven solutions esepcially in Heathcare (Clinical Note Generation), particularly using large language models (LLMs), MLOps, and Responsible AI practices. My work spans various industries, helping organizations leverage cutting-edge AI technologies to drive innovation and solve complex challenges. Since last year I have joined Microsoft Healthcare and Life Science applied research team to help doctors with automating clinical note generation.
 
 ## 🚀 What I Do
 I'm passionate about advancing AI to serve humanity, and my work focuses on making AI accessible, reliable, and beneficial. Below is an overview of my key areas of expertise:
